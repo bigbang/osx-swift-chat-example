@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (2.0.2)
+  - BigBang (0.0.2):
+    - Alamofire (~> 2.0.2)
+    - Starscream (~> 1.0.0)
+    - SwiftyJSON (~> 2.3.0)
+  - Starscream (1.0.0)
+  - SwiftyJSON (2.3.0)
+
+DEPENDENCIES:
+  - BigBang (= 0.0.2)
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  BigBang: 66d5697eab29e8706aaf6e9a6bd5e5eb9dd854d6
+  Starscream: 24012f5dc21c634b66e2270b1bb95771b5316d5b
+  SwiftyJSON: 8d6b61a70277ef2a5d710d372e06e7e2d87fb9e4
+
+COCOAPODS: 0.38.2
